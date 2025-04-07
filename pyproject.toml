@@ -1,0 +1,9 @@
+[project]
+name = "gpt-proxy"
+version = "0.1.0"
+description = "FastAPI proxy for GPT"
+dependencies = [
+    "fastapi",
+    "httpx",
+    "uvicorn"
+]
